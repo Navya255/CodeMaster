@@ -1,10 +1,16 @@
 # CodeMaster
 Gen AI interactive coding game
+
 College-GNIOT(132)
+
 Group Name-Silicon Mavericks
+
 Group Member
+
 Navya Mishra(B.Tech-AIML(3rd Year)
+
 Suhani Kumari((B.Tech-AIML(3rd Year)
+
 Vaibhavi(B.Tech-AIML(3rd Year)
 
 This Quiz Application is a web-based platform that allows users to take quizzes in various languages and levels. Users can log in, select a language and level, answer questions, and view their results. The application is built using HTML, CSS, and JavaScript.

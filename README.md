@@ -1,5 +1,6 @@
 # CodeMaster
 Gen AI interactive coding game
+College-GNIOT(132)
 Group Name-Silicon Mavericks
 Group Member
 Navya Mishra(B.Tech-AIML(3rd Year)
